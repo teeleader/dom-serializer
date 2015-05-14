@@ -2,7 +2,7 @@
   Module dependencies
 */
 var ElementType = require('domelementtype');
-var entities = require('entities');
+var entities = require('@golfnow/entities');
 
 /*
   Boolean Attributes

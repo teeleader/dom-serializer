@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "domelementtype": "~1.1.1",
-    "entities": "~1.1.1"
+    "@golfnow/entities": "~2.0.0"
   },
   "devDependencies": {
     "cheerio": "*",
