@@ -1,5 +1,5 @@
 {
-  "name": "dom-serializer",
+  "name": "@golfnoweng/dom-serializer",
   "version": "0.1.0",
   "description": "render dom nodes to string",
   "author": "Felix Boehm <me@feedic.com>",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/cheeriojs/dom-renderer.git"
+    "url": "git://github.com/teeleader/dom-renderer.git"
   },
   "main": "./index.js",
   "files": [
